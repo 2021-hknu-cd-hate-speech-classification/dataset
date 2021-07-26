@@ -1,4 +1,6 @@
 # 데이터셋
+[ <img src="LICENSE.png" alt="CC-BY-SA-4.0" width="200"> ](https://creativecommons.org/licenses/by-sa/4.0/legalcode.ko)
+
 [kocohub/korean-hate-speech](https://github.com/kocohub/korean-hate-speech)와 [2runo/Curse-detection-data](https://github.com/2runo/Curse-detection-data)를 가공해 만든 데이터셋입니다.
 
 ## 데이터
