@@ -1,13 +1,19 @@
 # 데이터셋
-[ <img src="LICENSE.png" alt="CC-BY-SA-4.0" width="200"> ](https://creativecommons.org/licenses/by-sa/4.0/legalcode.ko)
 
-[kocohub/korean-hate-speech](https://github.com/kocohub/korean-hate-speech)와 [2runo/Curse-detection-data](https://github.com/2runo/Curse-detection-data)를 가공해 만든 데이터셋입니다.
+[<img src="LICENSE.png" alt="CC-BY-SA-4.0" width="200">](https://creativecommons.org/licenses/by-sa/4.0/legalcode.ko)
+
+[kocohub/korean-hate-speech](https://github.com/kocohub/korean-hate-speech)와
+[2runo/Curse-detection-data](https://github.com/2runo/Curse-detection-data)를 가공해
+만든 데이터셋입니다.
 
 ## 데이터
-각종 커뮤니티 사이트의 댓글 총 14,193개
+
+각종 커뮤니티 사이트의 댓글 총 19,045개
 
 ## 오픈 소스 라이선스
+
 ### 2runo/Curse-detection-data
+
 ```txt
 MIT License
 
@@ -33,4 +39,7 @@ SOFTWARE.
 ```
 
 ### kocohub/korean-hate-speech
-전체 내용은 [여기](https://github.com/kocohub/korean-hate-speech/blob/5ec095506aa777e68243044930fa336fa6bdf285/LICENSE.md)에서 보실 수 있습니다.
+
+전체 내용은
+[여기](https://github.com/kocohub/korean-hate-speech/blob/5ec095506aa777e68243044930fa336fa6bdf285/LICENSE.md)에서
+보실 수 있습니다.
